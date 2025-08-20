@@ -92,11 +92,11 @@ user-select: none;
   height:20px;
   cursor: pointer;
   height:20px;
-  background:url(/image/circle.png) center/cover;
+  background:url(image/circle.png) center/cover;
   opacity: 0.5;
 }
 .todo-list ul li.completed::before  {
-  background:url(/image/correct.png) center/cover;
+  background:url(image/correct.png) center/cover;
   opacity: 1;
 }
 .todo-list ul li span{
@@ -106,7 +106,7 @@ user-select: none;
 cursor: pointer;
   width: 15px;
   height: 15px;
-  background: url(/image/close.png) center/cover;
+  background: url(image/close.png) center/cover;
   margin-left: 20px;
 }
 .todo-list ul li span:hover{
